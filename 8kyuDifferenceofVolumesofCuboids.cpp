@@ -7,4 +7,5 @@ int findDifference(std::array<int, 3> a, std::array<int, 3> b) {
 int main()
 {
     findDifference(3,3U)
+      cout<<finddiffernce;
 }
