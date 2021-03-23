@@ -6,5 +6,5 @@ bool hero(int bullets, int dragons) {
 int main()
 {
     hero(4, 8);
-    return 0;
+    cout<<hero;
 }
