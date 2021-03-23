@@ -6,6 +6,9 @@ std::string boolean_to_string(bool b){
 }
 int main()
 {
-    int i;
-    cin>>i;
+    int b;
+    cin>>b;
+  boolean_to_string(b);
+  cout<<boolean_to_string;
+  
 }
