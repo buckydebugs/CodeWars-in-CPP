@@ -19,4 +19,5 @@ int makeNegative(int num)
 int main()
 {
     makeNegative(-3);
+  cout<<makeNegative;
 }
