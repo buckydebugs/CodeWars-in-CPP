@@ -19,4 +19,5 @@ int main()
     string b = "no";
     bool s = scramble(a,b);
     cout<<s; // displays 0
+  
 }
